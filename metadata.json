@@ -1,0 +1,6 @@
+{
+  "name": "BMSIT&M Campus Portal & Shield",
+  "description": "BMS Institute of Technology and Management campus portal featuring student profiles, CBCS course registration, campus event calendar, and the Mission Portal Shield AI web defense simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
